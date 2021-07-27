@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Mateus Oliveira
 - 👀 Estou interessado em aprender cada vez mais sobre o mundo de um Dev Full Stack
-- 🌱 Atualmente estou aprendendo JavaScript 
+- 🌱 Atualmente estou aprendendo JavaScript e C#
 - 💞️ Estou procurando colaborar com o meu aprendizado e sempre estar trazendo coisas novas onde estiver exercendo atividades
 - 📫 Você pode me encontrar pelo email "mateus.oliveira2001@outlook.com", te retornarei o mais rápido possível
 
