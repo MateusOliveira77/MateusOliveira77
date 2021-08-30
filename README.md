@@ -1,9 +1,8 @@
 ### Olá!!! Me chamo Mateus Oliveira 👋 
-- 👀 Estou interessado em aprender cada vez mais sobre o mundo de um Dev Full Stack e também sempre aprofundando meu conhecimento em DataScience
-- 💻 Atualmente estou aprendendo JavaScript, C#, SQL Server, Python, HTML e CSS
-- 💼 Atualmente trabalho como Developer Trainee no Fitbank Pagamentos Eletrônicos
-- 💞️ Estou procurando colaborar com o meu aprendizado e sempre estar trazendo coisas novas onde estiver exercendo atividades
-- 📧 Você pode me encontrar pelo email "mateus.oliveira2001@outlook.com", te retornarei o mais rápido possível
+- 👀 Estou interessado em aprender cada vez mais sobre o mundo de um Dev Full Stack e também sempre aprofundando meu conhecimento em DataScience.
+- 💻 Atualmente estou aprendendo JavaScript, C#, Java SQL Server, Python, HTML5 e CSS3.
+- 💼 Atualmente trabalho como Developer Trainee no Fitbank Pagamentos Eletrônicos.
+- 📧 Você pode me encontrar pelo email "mateus.oliveira2001@outlook.com", te retornarei o mais rápido possível.
 
 <div>
   <a href="https://github.com/MateusOliveira77">
