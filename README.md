@@ -24,7 +24,7 @@
   <img align="center" alt="Mateus-DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">  
   <img align="center" alt="Mateus-DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">   <img align="center" alt="Mateus-DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain-wordmark.svg">
   <img align="center" alt="Mateus-DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">   
-  <img align="center" alt="Mateus-DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Mateus-DotNet" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/mysql-original-wordmark.svg">
     
 </div>
   
